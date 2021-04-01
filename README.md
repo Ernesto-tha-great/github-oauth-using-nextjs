@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # Authentication for Next.js and Serverless
 
-This is the codebase to an article published on LogRocket and assumes you want to try out the sample application from the article.
+
 
 ## What you'll need
 
